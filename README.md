@@ -103,7 +103,7 @@ BLOG-POST-LIST:START
 --- -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dxesdear&color=blueviolet&style=flat" alt="Profile views"/>
 </div>
 
 <div align="center">
