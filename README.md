@@ -52,10 +52,16 @@
 ## 🏆 Featured Projects
 
 ### [TorKum](https://github.com/yourusername/project1)
-Torkum is frontend project that main use in Vue for develobement , Goal for good experience usage.
+Torkum is frontend project that main use in Vue for develobement , goal for good experience usage.
 - **Tech Stack:** Vue
 - **Features:** 
-- 🌟 **[Live Demo](https://superb-trifle-26255d.netlify.app/)**
+- 🌟 **[Let try](https://superb-trifle-26255d.netlify.app/)**
+  
+### [Food Recipe Community](https://github.com/yourusername/project1)
+Food Recipe Community is frontend project that main use in Vue for develobement. Goal for speacializing in Vue framework like life cycle , state mangement etc. router , 
+- **Tech Stack:** Vue
+- **Features:** 
+- 🌟 **[Look up for repository](https://github.com/Jet1a/PROJECT2-SEC-1-GongGangGaiGonk)**
 <!--
 ### [Project Name 2](https://github.com/yourusername/project2)
 Brief description of your second project.
