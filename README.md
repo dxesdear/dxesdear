@@ -51,17 +51,23 @@
 -->
 ## 🏆 Featured Projects
 
-### [TorKum](https://github.com/yourusername/project1)
+### [TorKum](https://superb-trifle-26255d.netlify.app/)
 Torkum is frontend project that main use in Vue for develobement , goal for good experience usage.
-- **Tech Stack:** Vue
+- **Tech Stack:** Vue.js TailwindCSS
 - **Features:** 
-- 🌟 **[Let try](https://superb-trifle-26255d.netlify.app/)**
+- 🌟 **[Let's try](https://superb-trifle-26255d.netlify.app/)**
   
-### [Food Recipe Community](https://github.com/yourusername/project1)
+### [Food Recipe Community](https://github.com/Jet1a/PROJECT2-SEC-1-GongGangGaiGonk)
 Food Recipe Community is frontend project that main use in Vue for develobement. Goal for speacializing in Vue framework like life cycle , state mangement etc. router , 
-- **Tech Stack:** Vue
+- **Tech Stack:** Vue.js TailwindCSS
 - **Features:** 
 - 🌟 **[Look up for repository](https://github.com/Jet1a/PROJECT2-SEC-1-GongGangGaiGonk)**
+
+### [Mobile e-commerce platform](http://intproj24.sit.kmutt.ac.th/ssi4/)
+Mobile e-commerce platform is website project that I contributed in a 3-member team, roles in Full-stack developer that conduct from design to deployment.  
+- **Tech Stack:** Java, Spring boot, Javascritp, Vue.js, TailwindCSS, MySQL, REST api, Docker compose
+- **Features:** 
+- 🌟 **[Let's try](http://intproj24.sit.kmutt.ac.th/ssi4/)**
 <!--
 ### [Project Name 2](https://github.com/yourusername/project2)
 Brief description of your second project.
